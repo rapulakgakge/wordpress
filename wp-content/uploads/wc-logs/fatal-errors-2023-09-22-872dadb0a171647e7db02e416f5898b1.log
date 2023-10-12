@@ -1,0 +1,16 @@
+2023-09-22T13:43:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\Onboarding\OnboardingHelper.php on line 27
+
+2023-09-22T13:43:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\Onboarding\Onboarding.php on line 16
+
+2023-09-22T13:46:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 97
+
+2023-09-22T13:48:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2023-09-22T13:48:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\seraphinite-accelerator-ext\Cmn\Plugin.php on line 848
+
+2023-09-22T15:30:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 5311
+
+2023-09-22T15:32:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4570
+
+2023-09-22T16:18:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+

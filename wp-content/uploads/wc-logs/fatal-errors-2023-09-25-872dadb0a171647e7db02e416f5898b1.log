@@ -1,0 +1,4 @@
+2023-09-25T19:36:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\ReviewsCommentsOverrides.php on line 12
+
+2023-09-25T19:36:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\includes\view.helper.php on line 10
+

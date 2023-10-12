@@ -1,0 +1,10 @@
+2023-09-18T10:13:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-09-18T10:14:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\testimonial.php on line 4
+
+2023-09-18T14:57:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6691
+
+2023-09-18T19:07:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\plugin.php on line 173
+
+2023-09-18T19:08:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-theme.php on line 1426
+
